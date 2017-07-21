@@ -1,3 +1,5 @@
+before you run server please execute: npm install
+
 run server: node app.js
 
 2 urls:
