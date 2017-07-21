@@ -1,0 +1,6 @@
+run server: node app.js
+
+2 urls:
+
+http://localhost:3000/self-serve/create-account
+http://localhost:3000/self-serve/login

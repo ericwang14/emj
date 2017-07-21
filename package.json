@@ -1,0 +1,36 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Web Development with Node & Express examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "ericw",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "express-logger": "0.0.3",
+    "express-session": "^1.14.1",
+    "loadtest": "^2.0.4",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-exec": "^1.0.1",
+    "hapi": "^16.5.0",
+    "hbs": "^4.0.1",
+    "mocha": "^3.1.0",
+    "zombie": "^4.2.1"
+  }
+}
